@@ -1,0 +1,17 @@
+
+
+Helington@NOTE MINGW64 /e/desenvolvimento/workspace-intellij/projetojava
+$ git init
+Initialized empty Git repository in E:/desenvolvimento/workspace-intellij/projetojava/.git/
+
+Helington@NOTE MINGW64 /e/desenvolvimento/workspace-intellij/projetojava (main)
+$ git config --global user.name "Helington Pereira"
+
+Helington@NOTE MINGW64 /e/desenvolvimento/workspace-intellij/projetojava (main)
+$ git config --global user.email "helington.pm@gmail.com"
+
+Helington@NOTE MINGW64 /e/desenvolvimento/workspace-intellij/projetojava (main)
+$ git add .
+
+Helington@NOTE MINGW64 /e/desenvolvimento/workspace-intellij/projetojava (main)
+$ git commit -m "Teste"
